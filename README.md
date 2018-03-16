@@ -1,4 +1,4 @@
-Test5
+Test6
 
 Welcome to the AWS CodeStar sample web application - Test
 ==================================================
